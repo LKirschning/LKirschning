@@ -9,6 +9,15 @@
   <li> I am looking to work for a great company where I can put my skills to good use.</li>
 </ul>
 
+**Techstack**
+HTML, CSS,  JavaScript ES6,
+SQL, Postgres, git, GitHub, Heroku
+Ruby on Rails, Bootstrap,
+Python, Django, Bash
+
+**Also find me on*
+[linked.in](https://www.linkedin.com/in/ludwig-kirschning/)
+
 
 <!---
 LKirschning/LKirschning is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
