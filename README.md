@@ -1,4 +1,4 @@
-<h1> Hi! My name is Ludwig Kirschning </h1>
+<h1 align=center> Hi! My name is Ludwig Kirschning </h1>
 
 - 👀 I’m interested in becoming a Backend Developer.
 
