@@ -5,12 +5,12 @@
   <li> After working in the social sector, I decided to switch career and put great effort in learning new technology.</li>
   <li> In 10-week Le Wagon Bootcamp I learned the ins and outs of developing for the web with Ruby on Rails.</li>
   <li> Have a look at our beautiful [tidytally.com](https://www.tidytally.com/) final project!</li>
-  <li> Currently I am learning **Node.js**</li>
+  <li> Currently I am learning **React**</li>
   <li> I am looking to work for a great company where I can put my skills to good use.</li>
 </ul>
 
 **Techstack**  
-HTML, CSS,  JavaScript ES6,
+HTML, CSS,  JavaScript ES6, React
 SQL, Postgres, git, GitHub, Heroku
 Ruby on Rails, Bootstrap,
 Python, Django, Bash
